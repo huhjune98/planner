@@ -1,4 +1,4 @@
-# 일정 관리 앱
+![image](https://github.com/user-attachments/assets/60fe60d6-ded3-4d61-8bc9-adf3a2d7b5e7)# 일정 관리 앱
 
 ## API 명세서
 
@@ -186,6 +186,8 @@
   {
     "message": "일정이 삭제 되었습니다", 
   }
+
+## ERD
 
 
 
